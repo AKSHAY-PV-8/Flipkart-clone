@@ -1,0 +1,12 @@
+.main__section{
+    margin: 0 auto;
+    min-width: 978px;
+    max-width: 1689px;
+    padding: 8px;
+    width: 100%;
+    position: s;
+}
+.main-section__wrapper{
+    display: flex;
+    flex-flow: row;
+}

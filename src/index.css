@@ -1,0 +1,13 @@
+/* @font-face {
+  font-family: "Inter";
+  src: url("/FlipKart/src/assets/fonts/Inter-Bold.woff2");
+} */
+@import "tailwindcss";
+
+*{
+  font-family:Inter, -apple-system, Helvetica, Arial, sans-serif;
+  box-sizing:border-box;
+  
+}
+
+
