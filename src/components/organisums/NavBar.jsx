@@ -3,7 +3,7 @@ import ToggleItemNavbar from "./ToggleItemNavbar"
 
 const NavBar = () => {
   return (
-    <nav className="navbar__wrapper ">
+    <nav className="navbar__wrapper hidden xl:block">
         <div className="navbar__base">
             <div className="padded-section"></div>
 

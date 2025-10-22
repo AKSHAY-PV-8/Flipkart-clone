@@ -24,7 +24,7 @@ export const productData = [
            " 1 year warranty for phone and 1 year warranty for in Box Accessories"
         ],
         price:"69,999",
-        discountAmount: "69,999",
+        discountAmount: "60,999",
         exchangeOffer: "47,220",
         img:"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/l/2/-original-imahgfmzvanpgncf.jpeg?q=70",
         largeImg:"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/o/l/2/-original-imahgfmzvanpgncf.jpeg?q=70&amp;crop=false",
@@ -63,6 +63,7 @@ export const productData = [
            " 1 year warranty for phone and 1 year warranty for in Box Accessories"
         ],
         price:"69,999",
+        discountAmount: "60,999",
         exchangeOffer: "47,220",
         img:"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/l/2/-original-imahgfmzvanpgncf.jpeg?q=70",
         largeImg:"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/o/l/2/-original-imahgfmzvanpgncf.jpeg?q=70&amp;crop=false",
@@ -101,6 +102,7 @@ export const productData = [
         "1 year warranty for phone and 1 year warranty for in-box accessories"
         ],
         price:"70,999",
+        discountAmount: "60,999",
         exchangeOffer: "48,500",
         img:"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/o/9/-original-imahggev6y5zhbjz.jpeg?q=70",
         largeImg:"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/o/o/9/-original-imahggev6y5zhbjz.jpeg?q=70&amp;crop=false",
@@ -130,6 +132,7 @@ export const productData = [
         "1 year warranty for phone and 1 year warranty for in-box accessories"
         ],
         price:"82,999",
+        discountAmount: "60,999",
         exchangeOffer: "55,220",
         img:"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/o/j/-original-imahggesmypxqrgs.jpeg?q=70",
         largeImg:"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/r/o/j/-original-imahggesmypxqrgs.jpeg?q=70&amp;crop=false",
@@ -159,6 +162,7 @@ export const productData = [
         "1 year warranty for phone and 6 months for in-box accessories"
         ],
         price:"1,19,999",
+        discountAmount: "60,999",
         exchangeOffer: "72,000",
         img:"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/q/d/e/-original-imahgs24ultragray.jpeg?q=70",
         largeImg:"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/q/d/e/-original-imahgs24ultragray.jpeg?q=70",
@@ -188,6 +192,7 @@ export const productData = [
         "2 year manufacturer warranty for device and 6 months for in-box accessories"
         ],
         price:"64,999",
+        discountAmount: "60,999",
         exchangeOffer: "40,500",
         img:"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/3/t/2/-original-imahoneplus12green.jpeg?q=70",
         largeImg:"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/3/t/2/-original-imahoneplus12green.jpeg?q=70",
@@ -217,6 +222,7 @@ export const productData = [
         "1 year warranty for device and 6 months for in-box accessories"
         ],
         price:"92,999",
+        discountAmount: "60,999",
         exchangeOffer: "59,999",
         img:"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/4/g/5/-original-imahpixel9proobsidian.jpeg?q=70",
         largeImg:"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/4/g/5/-original-imahpixel9proobsidian.jpeg?q=70",
@@ -246,6 +252,7 @@ export const productData = [
         "1 year warranty for phone and in-box accessories"
         ],
         price:"1,29,999",
+        discountAmount: "60,999",
         exchangeOffer:"75,000",
         img:"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/pro-natural-iphone.jpeg?q=70",
         largeImg:"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/pro-natural-iphone.jpeg?q=70",
@@ -275,6 +282,7 @@ export const productData = [
         "1 year warranty for phone and 6 months for in-box accessories"
         ],
         price:"89,999",
+        discountAmount: "60,999",
         exchangeOffer:"58,000",
         img:"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/s24-black.jpeg?q=70",
         largeImg:"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/s24-black.jpeg?q=70",
@@ -304,6 +312,7 @@ export const productData = [
         "2 years manufacturer warranty on device"
         ],
         price:"49,999",
+        discountAmount: "60,999",
         exchangeOffer:"30,500",
         img:"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/12r-gray.jpeg?q=70",
         largeImg:"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/12r-gray.jpeg?q=70",
@@ -333,6 +342,7 @@ export const productData = [
         "1 year warranty for device, 6 months for accessories"
         ],
         price:"79,999",
+        discountAmount: "60,999",
         exchangeOffer:"49,999",
         img:"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/pixel-9-porcelain.jpeg?q=70",
         largeImg:"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/pixel-9-porcelain.jpeg?q=70",
@@ -362,6 +372,7 @@ export const productData = [
         "1 year premium onsite warranty"
         ],
         price:"1,49,999",
+        discountAmount: "60,999",
         exchangeOffer:"70,000",
         img:"https://rukminim2.flixcart.com/image/312/312/xif0q/laptop/dell-xps-13.jpeg?q=70",
         largeImg:"https://rukminim2.flixcart.com/image/416/416/xif0q/laptop/dell-xps-13.jpeg?q=70",
@@ -391,6 +402,7 @@ export const productData = [
         "1 year warranty"
         ],
         price:"26,990",
+        discountAmount: "60,999",
         exchangeOffer:"5,000",
         img:"https://rukminim2.flixcart.com/image/312/312/xif0q/headphone/sony-wf-1000xm5.jpeg?q=70",
         largeImg:"https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/sony-wf-1000xm5.jpeg?q=70",

@@ -4,11 +4,11 @@ const MobileSecondnav = () => {
     return (
         <div>
             <div className="[font-family: inter_regular, fallback-inter_regular, Arial, sans-serif] xl:hidden
-        text-[12px] bg-white">
-
-                <div className="mb-1 flex xl:hidden pl-4">
+        ">
+                <div className="mb-1 flex xl:hidden pl-4 font-medium [font-family: Inter, -apple-system, Helvetica, Arial, sans-serif] relative -top-[3px] text-[13px] leading-[18px] bg-white font-extrabold">
                     <div className="flex flex-row items-center relative p-1 ">
                         <svg
+                            className="relative -left-[3px]"
                             width="16"
                             height="16"
                             viewBox="0 0 16 16"
@@ -55,15 +55,15 @@ const MobileSecondnav = () => {
                 <div className="sticky -top-[1px] z-100">
                     <div className="flex flex-col items-stretch relative justify-center">
                         <div className="p-4">
-                            <div className="flex flex-row items-stretch relative">
-                                <div className="flex flex-col items-center border-[1.6px] border-[#58ABFA] border-solid relative flex-1 rounded-[12px] pr-1 pl-3 ">
+                            <div className="flex flex-row items-stretch relative -top-2" >
+                                <div className="flex flex-col  border-[1.6px] border-[#58ABFA] border-solid relative flex-1 rounded-[12px] pr-1 pl-3 ">
                                     <div className="h-12 flex items-stretch relative flex-1 flex-row">
-                                        <div className=" flex flex-row">
+                                        <div className=" flex flex-row h-12 justify-center items-center">
                                             <svg width="24" height="24" viewBox="0 0 256 256"><path fill="none" d="M0 0h256v256H0z"></path><circle cx="116" cy="116" r="84" fill="none" stroke="#1254E7" strokeLinecap="round" strokeLinejoin="round" strokeWidth="16"></circle><path fill="none" stroke="#1254E7" strokeLinecap="round" strokeLinejoin="round" strokeWidth="16" d="M175.4 175.4 224 224"></path></svg>
 
                                             <div className="flex flex-col items-stretch min-h-[30px] relative flex-1 overflow-hidden pl-2">
                                                 <a href="" className="flex flex-col items-stretch relative flex-1 justify-center">
-                                                    <div className="inline whitespace-pre-wrap break-words">Search for Products</div>
+                                                    <div className="inline whitespace-pre-wrap break-words text-[#000000e0] text-[14px] leading-[20px] -tracking-[0.1px]">Search for Products</div>
                                                 </a>
                                             </div>
                                         </div>

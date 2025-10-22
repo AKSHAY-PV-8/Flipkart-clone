@@ -20,7 +20,7 @@ const Home = () => {
     <div className="bg-[#f8f8f8] w-full h-[100dvh] flex flex-col">
 
       <div className="flex justify-center flex-col">
-        <HomeNavbar icon={icon} icon1={icon1} icon2={icon2} icon3={icon3} text3={true} label2={"You"} homePage={true}/>
+        <HomeNavbar icon={icon} icon1={icon1} icon2={icon2} icon3={icon3} text3={true} label2={"Login"} homePage={true}/>
         <MobileSecondnav/>
       </div>
 

@@ -17,9 +17,7 @@ export const FilterProvider = ({ children }) => {
     const handlePrice = (min, max) => {
         setPriceRange({ min, max })
     }
-    // const discountPercentage = (amount, discountAmount) => {
-
-    // }
+   
 
     console.log(selectedBrand)
 
@@ -28,9 +26,6 @@ export const FilterProvider = ({ children }) => {
         return productData.filter((p) => {
             
             const price = parseInt(p.price.replace(/,/g, ""));
-            // const discountAmount = parseInt(p.discountAmount.replace(/,/g, ""))
-            // const discount = ((price -discountAmount)/price)*100
-            // console.log("discount",discount)
             const inPriceRange = price >= priceRange.min && price <= priceRange.max;
             const matchesBrand = selectedBrand.length === 0 || selectedBrand.includes(p.brand);
             return inPriceRange && matchesBrand;

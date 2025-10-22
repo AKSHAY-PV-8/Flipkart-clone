@@ -21,12 +21,9 @@ const HomeIconsList = ({ style }) => {
         <div className="mb-4 flex flex-col relative no-underline z-0 bg-white">
           <div className="w-full h-full">
             <div className="bg-[#fff] min-h-[126px]
-                        overflow-x-scroll no-scrollbar
-                        justify-normal relative
-                        flex flex-row w-full z-10000 text-black
-                        lg:!justify-center
-                        [scrollbar-width:0] [::-webkit-scrollbar]:hidden
-                        "
+             overflow-x-scroll no-scrollbar
+             flex flex-row w-full z-[10000] text-black
+             lg:justify-center scro"
 
               style={{
                 fontFamily: "inter_regular, fallback-inter_regular, Arial, sans-serif"
