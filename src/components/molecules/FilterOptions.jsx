@@ -1,7 +1,7 @@
 import { useState } from "react"
 import { useFilter } from "../../hooks/FilterContext"
 import Chechbox from "../atoms/Chechbox"
-import Filters from "../atoms/filters"
+import Filters from "../atoms/Filters"
 import Search from "../atoms/Search"
 
 const FilterOptions = () => {
